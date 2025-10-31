@@ -1,0 +1,5 @@
+{
+  "name": "Android App Forge",
+  "description": "An AI-powered tool that generates complete, runnable Android application source code in Java from a user's app idea. The app plans the structure, writes the code for each file, performs a code review, and provides a downloadable ZIP archive of the entire project.",
+  "requestFramePermissions": []
+}
